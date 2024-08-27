@@ -1,6 +1,6 @@
-The excel file contains a data about ABC store which has its order data regarding age groups,channels,gender,cities,states,order amount,order_id,order_status.
-order_id is the primary key here which seperates unique value from each other.'
-
-In conclusion the excel file contains the overview of the dataset by combining various pivot table and visulaizing the data through various pivot charts to draw conclusions about the data set by setting appropriate parameters in the dashboard section.
-
-Pivot charts and pivot table are created in the file itself.
+Problem Statement- You have been provided with an Excel file containing data related to store operations. Your objective is to analyze and interpret this data by creating and combining various charts. The goal is to derive meaningful insights and trends from the data to support decision-making.
+Key Tasks:
+1)Data Integration: Consolidate data from multiple sources within the Excel file to provide a unified view.
+2)Chart Creation: Develop appropriate charts to represent different aspects of the data, such as sales performance, inventory 3)levels, customer demographics, or any other relevant metrics.
+4)Data Interpretation: Analyze the charts to identify patterns, trends, and anomalies in the data.
+5)Insight Generation: Provide actionable insights and recommendations based on the analysis to help improve store operations or strategy.
